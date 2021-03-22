@@ -1,0 +1,17 @@
+C:\GitHub\VerificaEmailSES\VerificaEmaislSES\VerificaEmaislSES\obj\Debug\VerificaEmailsSES.Form1.resources
+C:\GitHub\VerificaEmailSES\VerificaEmaislSES\VerificaEmaislSES\obj\Debug\VerificaEmaislSES.Properties.Resources.resources
+C:\GitHub\VerificaEmailSES\VerificaEmaislSES\VerificaEmaislSES\obj\Debug\VerificaEmailsSES.csproj.GenerateResource.cache
+C:\GitHub\VerificaEmailSES\VerificaEmaislSES\VerificaEmaislSES\obj\Debug\VerificaEmailsSES.csproj.CoreCompileInputs.cache
+C:\GitHub\VerificaEmailSES\VerificaEmaislSES\VerificaEmaislSES\obj\Debug\VerificaEmaislSES.exe
+C:\GitHub\VerificaEmailSES\VerificaEmaislSES\VerificaEmaislSES\obj\Debug\VerificaEmaislSES.pdb
+C:\GitHub\VerificaEmailSES\VerificaEmaislSES\VerificaEmaislSES\bin\Debug\VerificaEmaislSES.exe.config
+C:\GitHub\VerificaEmailSES\VerificaEmaislSES\VerificaEmaislSES\bin\Debug\VerificaEmaislSES.exe
+C:\GitHub\VerificaEmailSES\VerificaEmaislSES\VerificaEmaislSES\bin\Debug\VerificaEmaislSES.pdb
+C:\GitHub\VerificaEmailSES\VerificaEmaislSES\VerificaEmaislSES\bin\Debug\AWSSDK.Core.dll
+C:\GitHub\VerificaEmailSES\VerificaEmaislSES\VerificaEmaislSES\bin\Debug\AWSSDK.SimpleEmail.dll
+C:\GitHub\VerificaEmailSES\VerificaEmaislSES\VerificaEmaislSES\bin\Debug\AWSSDK.Core.pdb
+C:\GitHub\VerificaEmailSES\VerificaEmaislSES\VerificaEmaislSES\bin\Debug\AWSSDK.Core.xml
+C:\GitHub\VerificaEmailSES\VerificaEmaislSES\VerificaEmaislSES\bin\Debug\AWSSDK.SimpleEmail.pdb
+C:\GitHub\VerificaEmailSES\VerificaEmaislSES\VerificaEmaislSES\bin\Debug\AWSSDK.SimpleEmail.xml
+C:\GitHub\VerificaEmailSES\VerificaEmaislSES\VerificaEmaislSES\obj\Debug\VerificaEmailsSES.csproj.CopyComplete
+C:\GitHub\VerificaEmailSES\VerificaEmaislSES\VerificaEmaislSES\obj\Debug\VerificaEmailsSES.csprojAssemblyReference.cache
